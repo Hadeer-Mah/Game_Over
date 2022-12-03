@@ -1,13 +1,28 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+  --bg-color: #3a2b80;
+  --main-text: white;
+  --second-color: #ef074b;
+}
+body {
+  background-color: var(--bg-color);
+  height: 100vh;
+  color: var(--main-text);
+
+}
+a {
+  color: var(--main-text);
+  text-decoration: none;
+}
+.login {
+  background-color: #382770;
+  height: 500px;
+}
+button {
+    background-color: var(--second-color);
+    border: transparent;
+    color: white;
+    border-radius: 8px;
+    padding: 7px 15px;
 }

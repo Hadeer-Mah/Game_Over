@@ -1,0 +1,14 @@
+.homeBg span {color: #ef074b;}
+.homeBg .item {
+    background-color: #382770;
+    transition: 0.5s;
+}
+.badge {
+    background-color: #ef074b;
+    padding: 3px 6px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+}
+.item:hover {
+    transform: scale(1.1);
+}
