@@ -36,13 +36,13 @@ function App() {
     return <Navigate to='/login' />
   }
   function ProtectedRoute(props) {
-    if (localStorage.getItem("token")) {
+    // if (localStorage.getItem("token")) {
       return props.children
       
-    } else {
-      return <Navigate to="/login"/>
+    // } else {
+    //   return <Navigate to="/login"/>
       
-    }
+    // }
     
   }
   

@@ -83,8 +83,8 @@ let categories = [
         <li className="nav-item d-flex align-items-center">
           <button className='btn btn-outline-info me-2'><Link className='text-white' to='/login'>Login</Link></button>
           <button><Link className='text-white' to='/register'>Join for Free</Link></button>
-        </li>
-        
+        </li> 
+         
               
       </ul>}
     </div>
