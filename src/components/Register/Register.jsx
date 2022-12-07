@@ -37,7 +37,7 @@ export default function Register() {
     setUser(myUser);
   }
   async function apiCheck() {
-    let {data} = await Axios.post('https://route-egypt-api.herokuapp.com/signup', user);
+    let {data} = await Axios.post('https://route-movies-api.vercel.app/signup', user);
     if (data.message === 'success') {
       setloadBtn(false);
       seterrorMsg(null);

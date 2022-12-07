@@ -32,7 +32,7 @@ export default function Login({saveUserData}) {
       setUser(myUser);
     }
     async function apiCheck() {
-      let {data} = await Axios.post('https://route-egypt-api.herokuapp.com/signin', user);
+      let {data} = await Axios.post('https://route-movies-api.vercel.app/signin', user);
       if (data.message === 'success') {
         localStorage.setItem("token",data.token);
         saveUserData();
