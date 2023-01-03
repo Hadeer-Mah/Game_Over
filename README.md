@@ -1,3 +1,9 @@
+
+
+Games exploratory website to search into hundreds of games within different categories, explore trailers
+and game-play. Built using React.js, Bootstrap and RapidAPI (Free-to-Play Games Database).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
