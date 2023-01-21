@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Game_Over/static/css/main.fdbf0566.css",
-    "main.js": "/Game_Over/static/js/main.e9dc78f6.js",
-    "static/media/gameO.jpg": "/Game_Over/static/media/gameO.edbbb03dddeeba56a054.jpg",
-    "static/media/fa-solid-900.ttf": "/Game_Over/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/fa-brands-400.ttf": "/Game_Over/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/Game_Over/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/Game_Over/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/Game_Over/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/pngwing.com.png": "/Game_Over/static/media/pngwing.com.27dfa202612c5427a699.png",
-    "static/media/fa-regular-400.woff2": "/Game_Over/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Game_Over/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Game_Over/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/Game_Over/index.html",
-    "main.fdbf0566.css.map": "/Game_Over/static/css/main.fdbf0566.css.map",
-    "main.e9dc78f6.js.map": "/Game_Over/static/js/main.e9dc78f6.js.map"
+    "main.css": "/games-website/static/css/main.2919877f.css",
+    "main.js": "/games-website/static/js/main.63ca12ad.js",
+    "static/media/gameO.jpg": "/games-website/static/media/gameO.edbbb03dddeeba56a054.jpg",
+    "static/media/fa-solid-900.ttf": "/games-website/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/games-website/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/games-website/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/games-website/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/games-website/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/pngwing.com.png": "/games-website/static/media/pngwing.com.27dfa202612c5427a699.png",
+    "static/media/fa-regular-400.woff2": "/games-website/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/games-website/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/games-website/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/games-website/index.html",
+    "main.2919877f.css.map": "/games-website/static/css/main.2919877f.css.map",
+    "main.63ca12ad.js.map": "/games-website/static/js/main.63ca12ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdbf0566.css",
-    "static/js/main.e9dc78f6.js"
+    "static/css/main.2919877f.css",
+    "static/js/main.63ca12ad.js"
   ]
 }
